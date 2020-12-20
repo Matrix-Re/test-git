@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: auto;
+}
+div.contact{
+	display: inline-block;
+	margin-left: 275px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+input{
+	margin-bottom: 15px;
+	width: 298px;
+	border: 1px solid black;
+
+}
+textarea{
+	border: 1px solid black;
+	margin-top: 15px;
+	min-width: 200px;
+	max-width: 300px;
+	width: 300px;
+	min-height: 100px;
+	max-height: 150px;
+	height: 150px;
+}
+@media (max-width: 1300px) {
+	div.contact{
+	margin-left: 250px;
+}
+}
+@media (max-width: 1250px) {
+	div.contact{
+	margin-left: 225px;
+}
+}
+@media (max-width: 1200px) {
+	div.contact{
+	margin-left: 200px;
+}
+}
+@media (max-width: 1150px) {
+	div.contact{
+	margin-left: 175px;
+}
+}
+@media (max-width: 1100px) {
+	div.contact{
+	margin-left: 150px;
+}
+}
+@media (max-width: 1050px) {
+	div.contact{
+	margin-left: 125px;
+}
+}
+@media (max-width: 1000px) {
+	div.contact{
+	display: block;
+	text-align: center;
+	margin-left: 75px;
+}
+}
+@media (max-width: 900px) {
+	div.contact{
+	margin-left: 75px;
+}
+}
+@media (max-width: 800px) {
+	div.contact{
+	margin-left: 25px;
+}
+}
+@media (max-width: 700px) {
+	div.contact{
+	margin-left: 0px;
+}
+}

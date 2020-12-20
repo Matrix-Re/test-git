@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: auto;
+}
+.img{
+	text-align: center;
+}
+.title{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.evenement{
+	display: inline-block;
+	vertical-align: top;
+}
+.even{
+	text-align: center;
+}

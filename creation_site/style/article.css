@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: auto;
+}
+div.text{
+	border: 2px solid #a5752b ;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+div.title{
+	border: 2px solid #a5752b ;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 15%;
+	margin-bottom: 1%;
+}

@@ -1,0 +1,29 @@
+body{
+	background-color: #FEFEFE;
+	margin-top: 190px;
+}
+h3{
+	text-align: center;
+	margin-top: 20px;
+	color: #53DE66;
+}
+div.img{
+	text-align: center;
+}
+div.c{
+	text-align: center;
+}
+div.c a{
+	width: 30;
+	height: 20;
+	border: 2px solid #53DE66;
+	color: #53DE66;
+	text-decoration: none;
+	text-align: center;
+}
+div.c a:hover{
+	background-color: #53DE66;
+	transition: 1s;
+	color: #fff;
+
+}

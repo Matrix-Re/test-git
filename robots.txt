@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.arnea.fr/sitemap.xml
+Sitemap: https://www.arnea.fr/creation_site\sitemap.xml

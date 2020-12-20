@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+}
+div.footer{
+	margin-top: 10px;
+	color: #fff;
+	background-color: #454545;
+}

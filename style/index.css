@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: auto;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.presentation{
+	margin-left: 700px;
+	margin-right: 150px;
+}
+.parcours, .realisations, .why_we, .self{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+div.agence{
+	display: inline-block;
+	width: 33%;
+	height: auto;
+	vertical-align: top;
+}
+h2.agence{
+	text-align: center;
+}
+hr{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+img{
+		width: 100%;
+	}
+@media (max-width: 1000px) {
+	body{
+		width: 100%;
+		height: auto;
+	}
+}
+.realisation{
+	display: inline-block;
+	margin-right: 1%;
+}
+.div_realisations{
+	margin-left: 150px;
+}

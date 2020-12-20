@@ -1,0 +1,9 @@
+/*le CSS du footer*/
+div.yo{
+	text-align: center;
+	
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #728C80;
+	color: #57E6A8;
+}

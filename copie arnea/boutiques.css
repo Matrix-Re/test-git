@@ -1,0 +1,54 @@
+/*CSS de la page gen*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+div.produits{
+	text-align: center;
+}
+div.produits div.produit img{
+	border-radius: 30px;
+}
+
+
+div.produit h1{
+	color: #fff;
+	text-align: center;
+}
+div.produit{
+	background-color: #221A22;
+	padding: 50px;
+	display: inline-block;
+	border-radius: 30px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+div.imput a{
+	color: #8F2231;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #221A22;
+
+	border: 0;
+	display: block;
+	margin: 10px auto;
+	text-align: center;
+	border: 2px solid #8F2231;
+	padding: 14px 10px;
+	width: 100px;
+	outline: none;
+	color: #8F2231;
+	border-radius: 30px;
+	transition: 0.50s;
+}
+div.imput:hover a{
+	color: #8F2231;
+	background: #2ecc71;
+	transition: 0.5s all;
+}

@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+	border-radius: 30px;
+}
+h2{
+	text-align: center;
+	margin-top: 126px;
+	margin-bottom: 126px;
+}

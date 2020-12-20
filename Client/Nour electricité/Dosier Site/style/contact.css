@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	width: 100%;
+	height: auto;
+}
+form{
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.input{
+	width: 300px;
+	border-radius: 5px;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border: 1px solid red;
+}
+textarea{
+	min-width: 300px;
+	max-width: 300px;
+	height: 150px;
+	max-height: 150px;
+	min-height: 150px;
+}
+.send{
+	width: 150px;
+	border-radius: 5px;
+	border: 1px solid red;
+	background-color: #fff;
+}

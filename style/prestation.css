@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.vitrine, .ecommerce{
+	display: inline-block;
+	vertical-align: top;
+}
+.vitrine{
+	margin-left: 200px;
+}
+.ecommerce{
+	margin-left: 200px;
+}
+.suivi{
+	padding-top: 40px;
+}
+img{
+	width: 100%;
+}

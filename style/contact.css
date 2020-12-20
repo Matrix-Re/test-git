@@ -1,0 +1,46 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+form{
+	text-align: center;
+}
+.input{
+	width: 300px;
+	/*height: auto;*/
+	border-radius: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	border: 1px solid #a5752b;
+}
+textarea{
+	min-width: 300px;
+	max-width: 300px;
+	height: 150px;
+	max-height: 150px;
+	min-height: 150px;
+}
+.send{
+	width: 150px;
+	border-radius: 5px;
+	border: 1px solid #a5752b;
+	background-color: #fff;
+}
+img{
+	width: 100%;
+}

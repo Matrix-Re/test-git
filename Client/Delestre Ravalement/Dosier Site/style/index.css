@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	width: 100%;
+	height: auto;
+	background-color: #22c222;
+	color: #40332a;
+}
+img{
+	width: 300;
+}
+form{
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.input{
+	width: 300px;
+	border-radius: 5px;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border: 1px solid #4d8230;
+}
+textarea{
+	min-width: 300px;
+	max-width: 300px;
+	height: 150px;
+	max-height: 150px;
+	min-height: 150px;
+}
+.send{
+	width: 150px;
+	border-radius: 5px;
+	border: 1px solid #4d8230;
+	background-color: #fff;
+}
+hr.sep{
+	margin-left: 300px;
+	margin-right: 300px;
+}
+div.avis{
+	margin-left: 320px;
+	margin-right: 320px;
+}a.avis{
+	margin-left: 400px;
+	margin-right: 400px;
+}
+.prestation, .intro{
+	text-align: center;
+}

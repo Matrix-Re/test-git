@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /menunav.php
+Disallow: /mesphoto/
+Disallow: /*.png$
+Allow: /
+Sitemap: url du fichier site map

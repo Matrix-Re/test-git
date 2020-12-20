@@ -1,0 +1,15 @@
+/*le CSS du footer*/
+div.yo{
+	text-align: center;
+	
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #221A22;
+	color: #BBBCBC;
+}
+div.A{
+	text-align: center;
+}
+a.facebook img{
+	text-align: center;
+}

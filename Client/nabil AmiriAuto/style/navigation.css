@@ -1,0 +1,34 @@
+div.commande{
+	background: #fff;
+	text-align: center;
+	margin-right: 130px;
+
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	margin-left: 100px;
+
+}
+nav.menu-nav ul li.btn a{
+	color: #57E6A8;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #728C80;
+
+	border: 0;
+	display: block;
+	margin: 16px auto;
+	text-align: center;
+	border: 2px solid #57E6A8;
+	padding: 14px 10px;
+	width: 100px;
+	outline: none;
+	/*border-radius: 30px;*/
+	transition: 0.50s;
+}
+nav.menu-nav ul li.btn:hover a{
+	color: #728C80;
+	background: #57E6A8;
+	transition: 2s all;
+}

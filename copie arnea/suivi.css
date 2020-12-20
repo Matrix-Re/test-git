@@ -1,0 +1,38 @@
+/*CSS de la page gen*/
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+	text-align: center;
+}
+form.formulaire{
+	text-align: center;
+	margin-bottom: 100px;	
+}
+form.formulaire input{
+	margin-bottom: 5px;
+}
+form.formulaire input.Nom{
+	width: 300px;
+	border: 2px solid #8F2231;
+}
+form.formulaire input.email{
+	width: 300px;
+	border: 2px solid #8F2231;
+}
+form.formulaire textarea.commentaire{
+	padding-bottom: 25px;
+	border: 2px solid #8F2231;
+	width: 300px;
+	font-family: sans-serif;
+}
+form.formulaire input.formsend{
+color: red;
+}
+
+div.br{
+	margin-top: 15px;
+}

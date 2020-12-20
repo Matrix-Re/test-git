@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /img
+Disallow: /PHPMailler
+Disallow: /picture
+Disallow: /style
+Allow: /
+Sitemap: https://www.delestreravalement.arnea.fr/sitemap.xml

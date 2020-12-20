@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 100%;
+	height: auto;
+}
+.part{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 30px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
