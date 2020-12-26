@@ -1,3 +1,9 @@
 asa
 fd
+<<<<<<< HEAD
 i write from main branch
+=======
+new text from test_git.txt
+
+i write from the feature branch
+>>>>>>> feature
