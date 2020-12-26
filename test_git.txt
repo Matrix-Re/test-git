@@ -1,2 +1,5 @@
 asa
 fd
+new text from test_git.txt
+
+i write from the feature branch
